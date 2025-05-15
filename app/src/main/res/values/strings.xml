@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">水质监测系统</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">OneNET账号</string>
+    <string name="password">密码</string>
+    <string name="register_prompt">还没有账号？点击注册</string>
+    <string name="connection_status">连接状态</string>
+    <string name="mcu_connection">单片机连接：</string>
+    <string name="onenet_connection">OneNET连接：</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">已断开</string>
+    <string name="connection_failed">连接失败</string>
+    <string name="threshold">阈值</string>
+</resources> 
